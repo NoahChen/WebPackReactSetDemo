@@ -3,7 +3,7 @@ import React from 'react'
 export default class App extends React.Component {
     render() {
         return (
-            <div>webpack react 配置demo</div>
+            <div>webpack在react上的简单配置demo</div>
         )
     }
 }
